@@ -5,7 +5,7 @@ print('\n \n \n \n Hello! Dana has contributed to this code file!\n \n \n \n ')
 
 print('I am making this code way WAY better and more fancy on the MAIN branch')
 
-
+print('Erica says hi! Thanks for recording the lecture! :)')
 # print('I am making this code way WAY better and more fancy')
 
 # print('i am updating this in a new branch - which is exciting!')
