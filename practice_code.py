@@ -1,6 +1,7 @@
 #import numpy as np
 #import pandas as pd
 
+print('We are learning terminal!')
 print('\n \n \n \n Hello! Daphne has contributed to this code file!\n \n \n \n ')
 print('i am the test branch')
 print('I am making this code way WAY better and more fancy')
