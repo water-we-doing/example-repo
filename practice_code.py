@@ -17,5 +17,5 @@ print('\n Erica says hi! Thanks for recording the lecture! :)\n \n')
 # print('i am updating this in a new branch - which is exciting!')
 
 # hehe adding on more and more
-
+# this is a change by Erica as a test
 print('tgif')
